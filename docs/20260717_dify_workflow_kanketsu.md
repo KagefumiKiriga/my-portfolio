@@ -1,4 +1,3 @@
-cat > 20260717_dify_workflow_kanketsu.md << 'EOF'
 # 2026/07/17 開発日記：CrowdWorks案件分岐＆ナレッジ自動保存ワークフロー完成
 
 ## 今日やったこと
